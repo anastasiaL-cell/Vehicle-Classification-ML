@@ -79,7 +79,7 @@ The project uses pre-extracted numerical silhouette features rather than raw veh
 
 ## Repository Contents
 
-- `vehicle_ml_project_supervised_unsupervised.ipynb` – complete ML analysis
+- `vehicle_classification.ipynb` – complete ML analysis
 - `vehicle.csv` – vehicle silhouette dataset
 - `Projekt_Presentation_ML.pptx` – project presentation
 - `README.md` – project overview
