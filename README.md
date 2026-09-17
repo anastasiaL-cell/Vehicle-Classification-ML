@@ -81,5 +81,5 @@ The project uses pre-extracted numerical silhouette features rather than raw veh
 
 - `vehicle_ml_project_supervised_unsupervised.ipynb` – complete ML analysis
 - `vehicle.csv` – vehicle silhouette dataset
-- `Projekt_ML_LeikerAnastasia.pptx` – project presentation
+- `Projekt_Presentation_ML.pptx` – project presentation
 - `README.md` – project overview
